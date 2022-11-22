@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "xih017/ma5",
+    "build-script": "python run.py test"
+}
